@@ -42,6 +42,7 @@ annotationProcessor 'org.projectlombok:lombok:1.18.0'
 implementation 'com.android.volley:volley:1.0.0'
 ```
 
+After that, you just have to migrate the Java files to your project.
 
 ## Quick Start
 
